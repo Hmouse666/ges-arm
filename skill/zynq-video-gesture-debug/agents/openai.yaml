@@ -1,0 +1,8 @@
+interface:
+  display_name: "Zynq Video Gesture Debug"
+  short_description: "Debug Zynq camera, touch, LVGL, and gesture pipelines"
+  default_prompt: "Use $zynq-video-gesture-debug to diagnose this Zynq video or gesture issue."
+
+policy:
+  allow_implicit_invocation: true
+
